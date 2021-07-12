@@ -1,0 +1,2 @@
+# Clog
+ c++ logging library
